@@ -1,0 +1,8 @@
+yahoo-api:
+  api-key:
+  base-url: https://yahoo-finance15.p.rapidapi.com
+  stocks-endpoint: /api/v1/markets/stock/modules
+general:
+  delta-price-percentage: 0.02
+environment:
+  site: https://finance.yahoo.com/chart/NVDA
